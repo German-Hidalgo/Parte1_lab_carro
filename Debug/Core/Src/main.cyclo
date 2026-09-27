@@ -1,0 +1,11 @@
+../Core/Src/main.c:104:13:espera_ms	2
+../Core/Src/main.c:112:13:motor_on_compensado	1
+../Core/Src/main.c:134:13:motor_pulso	7
+../Core/Src/main.c:156:14:medir_cm	7
+../Core/Src/main.c:189:14:medir_estable_cm	10
+../Core/Src/main.c:215:5:main	13
+../Core/Src/main.c:330:6:SystemClock_Config	3
+../Core/Src/main.c:370:13:MX_TIM2_Init	4
+../Core/Src/main.c:415:13:MX_TIM3_Init	4
+../Core/Src/main.c:460:13:MX_GPIO_Init	1
+../Core/Src/main.c:501:6:Error_Handler	1
